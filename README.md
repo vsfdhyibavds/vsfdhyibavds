@@ -1,7 +1,7 @@
 <!-- Clickable Animated Banner -->
 <p align="center">
   <!-- Replace the src= link after you upload eugene_cyberpunk_banner.svg to your repo -->
-  <a href="https://github.com/vsfdhyibavds">
+  <a href="file:///C:/Users/jwnal/Downloads/eugene_cyberpunk_banner.svg">
     <img src="https://raw.githubusercontent.com/vsfdhyibavds/vsfdhyibavds/main/assets/eugene_cyberpunk_banner.svg" alt="Eugene Wekesa — Neon Banner" width="100%" />
   </a>
 </p>
