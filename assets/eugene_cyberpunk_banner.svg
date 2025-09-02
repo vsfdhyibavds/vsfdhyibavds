@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#0D1117"/>
+  <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+    <feMerge>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <text id="name" x="50%" y="50%" text-anchor="middle" dy=".35em" font-family="'Orbitron', 'Montserrat', Arial, sans-serif" font-size="72" fill="#00FFFF" filter="url(#neon-glow)">
+    Eugene Wekesa
+  </text>
+  <g id="typing-effect">
+    <text x="50%" y="70%" text-anchor="middle" font-family="'Fira Mono', 'Consolas', monospace" font-size="32" fill="#FF00FF" filter="url(#neon-glow)">
+      &lt;Frontend Developer / Cyberpunk&gt;
+    </text>
+    <rect id="cursor" x="50%" y="70%" width="18" height="36" fill="#00FFFF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Fira+Mono&display=swap');
+  </style>
+</svg>
