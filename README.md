@@ -7,6 +7,7 @@
 </p>
 
 # 👋 Hi, I’m Eugene Wekesa
+
 Frontend Developer • React Enthusiast • Aspiring Full-Stack Engineer
 
 I build sleek, responsive, and fast web apps with a love for smooth interactions and clean code.
@@ -14,6 +15,7 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=000" />
@@ -26,18 +28,20 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ---
 
 ## 📌 Featured Projects
-- 🛋️ **Online Furniture Store** — auth + responsive UI  
+
+- 🛋️ **Online Furniture Store** — auth + responsive UI
   https://github.com/vsfdhyibavds/Online_Furniture_Store
 
-- ✅ **Personal Habit Challenge League** — realtime dashboard + tracking  
+- ✅ **Personal Habit Challenge League** — realtime dashboard + tracking
   https://github.com/Christine-June/Personal-Habit-League-2
 
-- 💼 **Recruit Connect** — structured job application platform  
+- 💼 **Recruit Connect** — structured job application platform
   https://github.com/Mundia1/recruit-connect-frontend-
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vsfdhyibavds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" />
 </p>
@@ -51,6 +55,7 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ---
 
 ## 🎧 Now Playing on Spotify
+
 <p align="center">
   <!-- After you deploy novatorem to Vercel, replace YOUR-USER below -->
   <a href="https://open.spotify.com/user/YOUR-SPOTIFY-USERNAME" target="_blank">
@@ -61,7 +66,8 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ---
 
 ## 📫 Connect
-- 📧 **eugenco578@gmail.com**  
+
+- 📧 **eugenco578@gmail.com**
 - 🧑‍💻 **https://github.com/vsfdhyibavds**
 
 <!--
@@ -78,6 +84,7 @@ root@github:~# access profile --level elite
 </p>
 
 # 👋 Hi, I’m Eugene Wekesa
+
 Frontend Developer • React Enthusiast • Aspiring Full-Stack Engineer
 
 I build sleek, responsive, and fast web apps with a love for smooth interactions and clean code.
@@ -85,6 +92,7 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=000" />
@@ -97,18 +105,20 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ---
 
 ## 📌 Featured Projects
-- 🛋️ **Online Furniture Store** — auth + responsive UI  
+
+- 🛋️ **Online Furniture Store** — auth + responsive UI
   https://github.com/vsfdhyibavds/Online_Furniture_Store
 
-- ✅ **Personal Habit Challenge League** — realtime dashboard + tracking  
+- ✅ **Personal Habit Challenge League** — realtime dashboard + tracking
   https://github.com/Christine-June/Personal-Habit-League-2
 
-- 💼 **Recruit Connect** — structured job application platform  
+- 💼 **Recruit Connect** — structured job application platform
   https://github.com/Mundia1/recruit-connect-frontend-
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vsfdhyibavds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" />
 </p>
@@ -122,6 +132,7 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ---
 
 ## 🎧 Now Playing on Spotify
+
 <p align="center">
   <!-- After you deploy novatorem to Vercel, replace YOUR-USER below -->
   <a href="https://open.spotify.com/user/YOUR-SPOTIFY-USERNAME" target="_blank">
@@ -132,7 +143,8 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ---
 
 ## 📫 Connect
-- 📧 **eugenco578@gmail.com**  
+
+- 📧 **eugenco578@gmail.com**
 - 🧑‍💻 **https://github.com/vsfdhyibavds**
 
 <!--
