@@ -1,6 +1,5 @@
-<!-- Clickable Animated Banner -->
+<!-- Animated Neon Banner -->
 <p align="center">
-  <!-- Replace the src= link after you upload eugene_cyberpunk_banner.svg to your repo -->
   <a href="https://github.com/vsfdhyibavds">
     <img src="https://raw.githubusercontent.com/vsfdhyibavds/vsfdhyibavds/main/assets/eugene_cyberpunk_banner.svg" alt="Eugene Wekesa — Neon Banner" width="100%" />
   </a>
@@ -17,12 +16,14 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/TailwindCSS-1EE8B7?style=for-the-badge&logo=tailwindcss&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-00FA9A?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
+  <marquee behavior="scroll" direction="left" scrollamount="12">
+    <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000" />
+    <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=000" />
+    <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=fff" />
+    <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=fff" />
+    <img src="https://img.shields.io/badge/TailwindCSS-1EE8B7?style=for-the-badge&logo=tailwindcss&logoColor=000" />
+    <img src="https://img.shields.io/badge/Node.js-00FA9A?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
+  </marquee>
 </p>
 
 ---
@@ -59,7 +60,7 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 <p align="center">
   <!-- After you deploy novatorem to Vercel, replace YOUR-USER below -->
   <a href="https://open.spotify.com/user/YOUR-SPOTIFY-USERNAME" target="_blank">
-    <img src="https://novatorem-git-master.YOUR-USER.vercel.app/api/spotify" alt="Spotify Now Playing" width="500" />
+    <img src="https://novatorem-git-master.YOUR-USER.vercel.app/api/spotify" alt="Spotify Now Playing" width="500" style="border-radius: 16px; box-shadow: 0 0 24px #00FFFF, 0 0 48px #FF00FF;" />
   </a>
 </p>
 
