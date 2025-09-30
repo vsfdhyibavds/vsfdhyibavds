@@ -1,9 +1,7 @@
 <!-- Animated Neon Banner -->
 <p align="center">
   <a href="https://github.com/vsfdhyibavds">
-    <img src="assets/banner.gif" alt="Eugene Banner" />
-
-" alt="Eugene Wekesa — Neon Banner" width="100%" />
+    <img src="assets/banner.gif" alt="Eugene Wekesa — Neon Banner" width="100%" />
   </a>
 </p>
 
