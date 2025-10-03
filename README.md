@@ -59,7 +59,7 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 
 <p align="center">
   <a href="https://open.spotify.com/user/G_msaniiii" target="_blank">
-    <img src="https://vsfdhyibavdsnovatorem-r3bauetj9-vsfdhyibavds-projects.vercel.app/api/spotify" alt="Spotify Now Playing" width="500" style="border-radius: 16px; box-shadow: 0 0 24px #00FFFF, 0 0 48px #FF00FF;" />
+    <img src="https://vsfdhyibavds-projects-vsfdhyibavds-novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="500" style="border-radius: 16px; box-shadow: 0 0 24px #00FFFF, 0 0 48px #FF00FF;" />
   </a>
 </p>
 
