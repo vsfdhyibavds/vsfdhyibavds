@@ -52,7 +52,7 @@ I build sleek, responsive, and fast web apps with a love for smooth interactions
 ## 🐍 Contribution Graph Snake
 
 <p align="center">
-  <img src="https://github.com/vsfdhyibavds/vsfdhyibavds/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/vsfdhyibavds/vsfdhyibavds/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
