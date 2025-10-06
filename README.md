@@ -2,11 +2,9 @@
 <p align="center">
   ## 🐍 Contribution Graph Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsfdhyibavds/vsfdhyibavds/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsfdhyibavds/vsfdhyibavds/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vsfdhyibavds/vsfdhyibavds/output/github-contribution-grid-snake.svg">
-</picture>ef="https://github.com/vsfdhyibavds">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vsfdhyibavds/vsfdhyibavds/output/github-snake.svg" alt="Snake animation" />
+</p>ef="https://github.com/vsfdhyibavds">
     <img src="https://raw.githubusercontent.com/vsfdhyibavds/vsfdhyibavds/main/assets/eugene_cyberpunk_banner.svg" alt="Eugene Wekesa — Neon Banner" width="100%" />
   </a>
 </p>
