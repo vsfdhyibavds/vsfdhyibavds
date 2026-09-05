@@ -5,14 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=850&height=44&lines=Software%20Architect;Developing%20%20Scalable%20code%20into%20scalable%20solutions!%E2%9D%A4%EF%B8%8F%F0%9F%9A%80" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=850&height=44&lines=Trusted%20Software%20Architect;Developing%20%20Scalable%20code%20into%20scalable%20solutions!%E2%9D%A4%EF%B8%8F%F0%9F%9A%80" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **Mental Health Platform**  
 🌱 &nbsp;I'm currently learning **C#**  
-🤔 &nbsp;I'm looking for help with **AI Chatbots**
+👯 &nbsp;I'm looking to collaborate on **Websites/Mobile Apps**  
+🤔 &nbsp;I'm looking for help with **AI Chatbots**  
+💬 &nbsp;Ask me about **React, Node.js, API**  
+😄 &nbsp;Pronouns: **He/Him**  
+⚡ &nbsp;Fun fact: **I once debugged from a mountain top**
 
 ### 🛠️ Tech Stack
 
@@ -42,9 +46,9 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/ eugene-wekesa-5337a52b3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/ge.nco._" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:eugenco578@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/ eugene-wekesa-5337a52b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ge.nco._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:eugenco578@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
@@ -57,7 +61,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vsfdhyibavds&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=vsfdhyibavds&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
